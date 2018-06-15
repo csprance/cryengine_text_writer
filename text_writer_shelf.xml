@@ -1,0 +1,5 @@
+<toolboxmacros>
+    <macro icon="" shortcut="" title="Text Writer" tooltip="Create some designer text that can be converted to a cgf">
+        <command bVariableToggle="0" text="general.run_file(r'text_writer/__init__.py')" type="1"/>
+    </macro>
+</toolboxmacros>
